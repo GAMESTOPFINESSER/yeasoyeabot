@@ -1,0 +1,17 @@
+{
+  "name": "everythingwentblack",
+  "version": "3.5.1",
+  "description": "dope bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vince",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "winston": "2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
